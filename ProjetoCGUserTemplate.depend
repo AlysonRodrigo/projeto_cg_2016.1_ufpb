@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1479786969 source:/home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/main.cpp
+1479811842 source:/home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/main.cpp
 	"include.h"
 
 1465896324 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/include.h
@@ -44,11 +44,12 @@
 	<glm/glm.hpp>
 	<glm/ext.hpp>
 
-1465879828 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/Arma.h
+1479813234 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/Arma.h
 	<glm/fwd.hpp>
 	<glm/glm.hpp>
 	<glm/ext.hpp>
 	<iostream>
+	<stdlib.h>
 
 1465635706 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/Bala.h
 	<glm/fwd.hpp>

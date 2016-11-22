@@ -8,12 +8,13 @@
 #include <glm/glm.hpp>
 #include <glm/ext.hpp>
 #include <iostream>
+#include <stdlib.h>
 
 
 class Arma
 {
 public:
-    Arma();
+     Arma();
     ~Arma();
     //void updatePosition();
     //void regulate();
