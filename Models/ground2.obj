@@ -1,0 +1,16 @@
+# Blender v2.70 (sub 0) OBJ File: 'trackwithbusNEW.blend'
+# www.blender.org
+mtllib ground2.mtl
+o bottom_Plane
+v -8.440879 -0.037769 5.700151
+v 4.784809 -0.037769 5.700151
+v -8.440879 -0.037768 -7.525537
+v 4.784809 -0.037768 -7.525537
+vt 0.000100 0.000100
+vt 0.999900 0.000100
+vt 0.000100 0.999900
+vt 0.999900 0.999900
+usemtl Material.002
+s off
+f 1/1 2/2 3/3
+f 2/2 4/4 3/3

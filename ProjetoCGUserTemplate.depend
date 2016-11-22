@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1479786969 source:/home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/main.cpp
+	"include.h"
+
+1465896324 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/include.h
+	<iostream>
+	<sys/time.h>
+	<time.h>
+	<unistd.h>
+	<SOIL/SOIL.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<string>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	"SDL_FontCache.h"
+	"Loader.h"
+	"Arma.h"
+	"Bala.h"
+
+1465589642 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/SDL_FontCache.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_gpu.h>
+	<stdarg.h>
+
+1465589642 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/Loader.h
+	<iostream>
+	<vector>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<string>
+	<glm/fwd.hpp>
+	<glm/glm.hpp>
+	<glm/ext.hpp>
+
+1465879828 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/Arma.h
+	<glm/fwd.hpp>
+	<glm/glm.hpp>
+	<glm/ext.hpp>
+	<iostream>
+
+1465635706 /home/alyson/Documentos/workspace-codeblocks/ProjetoFinalCompGrafica/ProjetoCGUserTemplate/Bala.h
+	<glm/fwd.hpp>
+	<glm/glm.hpp>
+	<glm/ext.hpp>
+	<iostream>
+

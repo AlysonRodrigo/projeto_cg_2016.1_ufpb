@@ -1,0 +1,70 @@
+# Blender MTL File: 'cena.blend'
+# Material Count: 6
+
+newmtl Material.003
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/igor/Desktop/woodtexture.jpg
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/igor/Desktop/pasta teste/texturez_4672.jpg
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd /home/igor/Desktop/pasta teste/sky.jpg
+
+newmtl blinn2SG
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd /home/igor/Desktop/JampaBus12.12/Models/bulletlight.jpg
+
+newmtl handgun.001
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/igor/Desktop/Handgun/Handgun_Obj/textures/handgun_C.jpg
+map_Bump /textures/handgun_N.jpg
+map_Ks /textures/handgun_S.jpg
+
+newmtl handgun_handgun_C.jpg.001
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/igor/Desktop/Handgun/Handgun_Obj/textures/handgun_C.jpg
+map_Bump /textures/handgun_N.jpg
+map_Ks /textures/handgun_S.jpg
